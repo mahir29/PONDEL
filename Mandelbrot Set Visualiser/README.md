@@ -62,7 +62,7 @@ mandel-wut\Release
 ``` 
 (if using in release mode).
 
-<img src = "https://github.com/mahir29/PONDEL/tree/master/Mandelbrot Set Visualiser/img/1.jpg" >
+<img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/1.jpg" >
 <img src = "/img/11.jpg" >
 <img src = "/img/3.jpg" >
 <img src = "/img/4.jpg" >
