@@ -63,12 +63,12 @@ mandel-wut\Release
 (if using in release mode).
 
 <img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/1.jpg" >
-<img src = "/img/11.jpg" >
-<img src = "/img/3.jpg" >
-<img src = "/img/4.jpg" >
-<img src = "/img/5.jpg" >
-<img src = "/img/6.jpg" >
-<img src = "/img/10.jpg" >
+<img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/11.jpg" >
+<img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/3.jpg" >
+<img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/4.jpg" >
+<img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/5.jpg" >
+<img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/6.jpg" >
+<img src = "https://github.com/mahir29/PONDEL/blob/master/Mandelbrot%20Set%20Visualiser/img/10.jpg" >
 
 
 ## TO-DO
